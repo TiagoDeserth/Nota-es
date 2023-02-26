@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+:root{
+  font-family: 'Comfortaa', cursive
+}
+
+body {
+    background: transparent; /* Make it white if you need */
+    color: #fcbe24;
+    padding: 0 24px;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    font-family: var(--font-family);
+}
+
+  #expressao{
+    width: 234px;
+    font-family: var(--font-family);
+  }
+
+  button{
+    margin-top: 20px;
+    font-family: var(--font-family);
+  }
